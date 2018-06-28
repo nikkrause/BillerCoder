@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+.navlist ul {width: 100%; padding:10px 25px; position:relative; margin-top:-50px; padding-top:60px;}
+
+.navlist li {width: 100%; font-weight:bold;}
+
+.navlist li>p {width: 100%; margin:2px 0 0 0 !important;}
